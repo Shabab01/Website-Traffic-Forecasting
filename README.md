@@ -1,4 +1,4 @@
- Website Traffic Forecasting
+ #Website Traffic Forecasting
 
 This project provides an analysis and forecasting model for website traffic using historical time-series data. The primary goal is to accurately predict future website views and uncover trends, seasonality, and patterns in website traffic.
 
