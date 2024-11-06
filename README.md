@@ -23,7 +23,7 @@ This project aims to forecast website traffic, using data preprocessing, visuali
 - **Features**:
   - **Date**: Date of each observation.
   - **Views**: Number of views recorded on each date.
-- **Timeframe**: Spans from 2020 onward.
+- **Timeframe**: Year 2020 .
 
 ## Installation
 
